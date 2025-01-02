@@ -1,2 +1,2 @@
-# daanaprojekta
+# DataAnalyticsProjects
 Data Analytics Projects
